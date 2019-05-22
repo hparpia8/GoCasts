@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-// Create a new tryp of 'deck'
+// Create a new type of 'deck'
 // which is a slice of a strings
 type deck []string
 
